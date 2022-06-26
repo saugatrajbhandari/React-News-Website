@@ -5,3 +5,5 @@
 - Search Functionality
 - Remove Functionality
 - Pagination
+- useContext
+- useReducer
